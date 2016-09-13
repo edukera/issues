@@ -4,4 +4,8 @@ Welcome to edukera issues repository. This repository has no code and is for iss
 
 https://github.com/edukera/issues/issues/new
 
-Note that there is an button to report an issue in the application. Follow the link below for more information :
+Note that there are two buttons in the application to report an issue :
+* one in the navigation left panel
+* one in the header menu
+
+
