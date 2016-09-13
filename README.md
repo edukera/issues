@@ -8,4 +8,6 @@ Note that there are two buttons in the application to report an issue :
 * one in the navigation left panel
 * one in the header menu
 
-
+<p align="center">
+  <img src="issues/Screenshot from 2016-09-13 16-23-50.png" width="350"/>
+</p>
