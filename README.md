@@ -1,4 +1,4 @@
-#Issues repository
+# edukera issues repository
 
 Welcome to edukera issues repository. This repository has no code and is for issue tracking only. Follow the link below to create an issue (requires a github account) :
 
